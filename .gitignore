@@ -29,3 +29,5 @@
 /_proj/Unity.TextMeshPro.csproj
 /_proj/Unity.TextMeshPro.Editor.csproj
 /_proj/Unity.Timeline.csproj
+_proj/Unity.Polybrush.csproj
+*.csproj
